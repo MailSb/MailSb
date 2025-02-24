@@ -1,4 +1,5 @@
 # Mail.Sb
+[中文](https://github.com/MailSb/MailSb/blob/main/README_zh-CN.md)
 
 **Delivering to You :: Focused on Sending.**
 
