@@ -1,5 +1,5 @@
 # Mail.Sb
-[English](https://github.com/MailSb/MailSb)
+[English](https://github.com/MailSb/MailSb/blob/main/README.md)
 
 **寄给你 :: 专注于寄件。**
 
